@@ -1,13 +1,11 @@
-<h1 align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm96ZW1xOXpuN3Izd21pbjIzZGk0cjRweGo3djJyM2JucDlxNmpyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIzXm8VhxdAO4qFKYu/giphy.gif" width="60px"/>
-  <span style="color: linear-gradient(to right, #00eaff, #a100f2); text-shadow: 0 0 10px #00eaff, 0 0 20px #a100f2, 0 0 40px #00eaff;">
-    Hello, I am Osman Kaya
-  </span>
-</h1>
+# <div align="center">
+  <p align="center">
+       <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=500&color=00E4FF&background=00000000&center=true&vCenter=true&width=500&lines=Hello%2C+Osman+Kaya;Hello%2C+Osman+Kaya" alt="Typing and Deleting Animation" />
+  </p>
+</div>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=500&color=00E4FF&background=000000&center=true&vCenter=true&width=500&lines=Computer+Engineer;AI+Enthusiast;Cyberpunk+Tech+Explorer..." alt="Cyberpunk Text Animation" />
+<p align="center" >
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=500&color=00E4FF&background=00000000&center=true&vCenter=true&width=500&lines=Computer+Engineer;AI+Enthusiast;Cyberpunk+Tech+Explorer..." alt="Cyberpunk Text Animation" />
 </p>
 
 <p align="center">
@@ -24,9 +22,7 @@
 - 🔍 Always exploring new technologies in **Full-Stack Development & AI-powered applications**  
 - 🌍 Open to **collaborations and tech discussions**  
 
-
 ---
-
 
 ## 🔧 Technologies & Tools  
 
@@ -53,17 +49,24 @@
 
 ---
 
-
-
-## 🚀 "The Future is Now"  
+ 🚀 "The Future is Now"  
 **Step into the digital world, where dreams turn into code.** 🌐✨
 
----
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm96ZW1xOXpuN3Izd21pbjIzZGk0cjRweGo3djJyM2JucDlxNmpyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIzXm8VhxdAO4qFKYu/giphy.gif" alt="Background" style="width: 100%; max-height: 250px; object-fit: cover; border-radius: 15px;">
+  <img src="https://images.hdqwalls.com/wallpapers/v-for-vendetta-dark-4k-sq.jpg" alt="V for Vendetta" style="position: relative; width: 100%; max-width: 800px;">
+  <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 32px; color: #00E4FF; font-weight: bold; 
+    text-shadow: 0 0 5px #00E4FF, 0 0 10px #00E4FF, 0 0 20px #00E4FF, 0 0 30px #00E4FF, 0 0 40px #00E4FF, 0 0 50px #00E4FF, 0 0 75px #00E4FF;">
+    Fikirlere Kurşun İşlemez
+  </span>
 </p>
 
-<div align="center">
+---
+🤝 Let's Connect!  
+
+I'm always open to collaborations, tech discussions, and new opportunities. Feel free to reach out via email, LinkedIn, or Twitter.
+
+
+<div align="center" style="background-image: url('https://images.hdqwalls.com/wallpapers/v-for-vendetta-dark-4k-sq.jpg'); background-size: cover; padding: 20px; border-radius: 10px;" >
   <a href="mailto:kyos6327@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>  
@@ -74,3 +77,6 @@
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter (X)" />
   </a>
 </div>
+
+---
+
