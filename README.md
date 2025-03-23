@@ -72,7 +72,7 @@ I'm always open to collaborations, tech discussions, and new opportunities. Feel
   <a href="https://www.linkedin.com/in/osman-kaya-ba565a271/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>  
-  <a href="https://twitter.com/OsmanKayaDev](https://x.com/KyOs63" target="_blank">
+  <a href="https://x.com/KyOs63" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter (X)" />
   </a>
 </div>
