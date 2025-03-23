@@ -55,7 +55,7 @@
 <p align="center">
   <img src="https://images.hdqwalls.com/wallpapers/v-for-vendetta-dark-4k-sq.jpg" alt="V for Vendetta" style="position: relative; width: 100%; max-width: 800px;">
   <span>
-    Fikirlere Kurşun İşlemez
+    Bullets cannot harm ideas.
   </span>
 </p>
 
@@ -72,7 +72,7 @@ I'm always open to collaborations, tech discussions, and new opportunities. Feel
   <a href="https://www.linkedin.com/in/osman-kaya-ba565a271/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>  
-  <a href="https://twitter.com/OsmanKayaDev" target="_blank">
+  <a href="https://twitter.com/OsmanKayaDev](https://x.com/KyOs63" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter (X)" />
   </a>
 </div>
