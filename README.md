@@ -54,8 +54,7 @@
 
 <p align="center">
   <img src="https://images.hdqwalls.com/wallpapers/v-for-vendetta-dark-4k-sq.jpg" alt="V for Vendetta" style="position: relative; width: 100%; max-width: 800px;">
-  <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 32px; color: #00E4FF; font-weight: bold; 
-    text-shadow: 0 0 5px #00E4FF, 0 0 10px #00E4FF, 0 0 20px #00E4FF, 0 0 30px #00E4FF, 0 0 40px #00E4FF, 0 0 50px #00E4FF, 0 0 75px #00E4FF;">
+  <span>
     Fikirlere Kurşun İşlemez
   </span>
 </p>
@@ -66,7 +65,7 @@
 I'm always open to collaborations, tech discussions, and new opportunities. Feel free to reach out via email, LinkedIn, or Twitter.
 
 
-<div align="center" style="background-image: url('https://images.hdqwalls.com/wallpapers/v-for-vendetta-dark-4k-sq.jpg'); background-size: cover; padding: 20px; border-radius: 10px;" >
+<div align="center" >
   <a href="mailto:kyos6327@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>  
