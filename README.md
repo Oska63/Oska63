@@ -23,9 +23,7 @@
 - ⚡ Passionate about **Artificial Intelligence, Web Technologies, and Cyberpunk-inspired UI/UX**  
 - 🔍 Always exploring new technologies in **Full-Stack Development & AI-powered applications**  
 - 🌍 Open to **collaborations and tech discussions**  
-- 📬 Let's connect:  
-  - **Email:** [kyos6327@gmail.com](mailto:kyos6327@gmail.com)  
-  - **LinkedIn:** [Osman Kaya](https://www.linkedin.com/in/osman-kaya-ba565a271/)  
+
 
 ---
 
@@ -60,3 +58,19 @@
 ## 🚀 "The Future is Now"  
 **Step into the digital world, where dreams turn into code.** 🌐✨
 
+---
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm96ZW1xOXpuN3Izd21pbjIzZGk0cjRweGo3djJyM2JucDlxNmpyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIzXm8VhxdAO4qFKYu/giphy.gif" alt="Background" style="width: 100%; max-height: 250px; object-fit: cover; border-radius: 15px;">
+</p>
+
+<div align="center">
+  <a href="mailto:kyos6327@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>  
+  <a href="https://www.linkedin.com/in/osman-kaya-ba565a271/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>  
+  <a href="https://twitter.com/OsmanKayaDev" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter (X)" />
+  </a>
+</div>
